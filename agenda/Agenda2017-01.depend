@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1506988098 source:g:\uezo\estrutura de dados\agenda 2017-01\agenda2017-01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"StrCol.h"
+
+1506986702 g:\uezo\estrutura de dados\agenda 2017-01\agenda2017-01\strcol.h
+
+1506986698 source:g:\uezo\estrutura de dados\agenda 2017-01\agenda2017-01\strcol.c
+	<stdio.h>
+	<string.h>
+	"StrCol.h"
+
+1506961526 source:d:\uezo\estrutura de dados\agenda 2017-01\agenda2017-01\strcol.c
+	<stdio.h>
+	<string.h>
+	"StrCol.h"
+
+1506954988 d:\uezo\estrutura de dados\agenda 2017-01\agenda2017-01\strcol.h
+
+1506962998 source:d:\uezo\estrutura de dados\agenda 2017-01\agenda2017-01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"StrCol.h"
+
